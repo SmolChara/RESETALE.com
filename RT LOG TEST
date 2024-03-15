@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <title>
+            LOG TEST
+        </title>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" type="text/css" href="Log.css">
+
+    </head>
+
+    <body>
+
+        <h1>
+            TEST texte
+        </h1>
+
+    </body>
+</html>
